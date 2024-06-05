@@ -21,6 +21,9 @@
 
 ## Diagramas y Diseños
 ---
+> .[!IMPORTANT]
+> Se solicitará iniciar sesión en draw.io con una cuenta para visualizar los diagramas.
+> 
 - **Diagrama de Actividades** [Click aquí](https://app.diagrams.net/#G1WtqVtx-YuIkxxZnpmtoSAPMeekhP8w-f#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
 - **Diagramas de Secuencias** [Click aquí](https://app.diagrams.net/#G1djHzKWcQ62t-7RbRwPLFGZc6GOBdfV06#%7B%22pageId%22%3A%2213e1069c-82ec-6db2-03f1-153e76fe0fe0%22%7D)
 - **Diagrama de Clases** [Click aquí](https://app.diagrams.net/#G1HkZ4c_5bhf77xI24p6RyxBg-umr6u_zK#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
