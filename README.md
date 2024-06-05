@@ -21,7 +21,7 @@
 
 ## Diagramas y Diseños
 ---
-> .[!IMPORTANT]
+> [!IMPORTANT]
 > Se solicitará iniciar sesión en draw.io con una cuenta para visualizar los diagramas.
 > 
 - **Diagrama de Actividades** [Click aquí](https://app.diagrams.net/#G1WtqVtx-YuIkxxZnpmtoSAPMeekhP8w-f#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
