@@ -24,9 +24,12 @@
 > [!IMPORTANT]
 > Se solicitará iniciar sesión en draw.io con una cuenta para visualizar los diagramas.
 > 
-- **Diagrama de Actividades** [Click aquí](https://app.diagrams.net/#G1WtqVtx-YuIkxxZnpmtoSAPMeekhP8w-f#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
-- **Diagramas de Secuencias** [Click aquí](https://app.diagrams.net/#G1djHzKWcQ62t-7RbRwPLFGZc6GOBdfV06#%7B%22pageId%22%3A%2213e1069c-82ec-6db2-03f1-153e76fe0fe0%22%7D)
-- **Diagrama de Clases** [Click aquí](https://app.diagrams.net/#G1HkZ4c_5bhf77xI24p6RyxBg-umr6u_zK#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
-- **Diagrama de Casos de Uso** [Click aquí](https://app.diagrams.net/#G1hixfnaBh50Hy6YdU8RWaMrfwkmgyB2ZT#%7B%22pageId%22%3A%22J1bnYpoX9HUr1594M34Z%22%7D)
-- **Tarjetas CRC** [Click aquí](https://app.diagrams.net/#G1jDa13XQnvticrkN2S6NdMJ-tMNPNGtGI#%7B%22pageId%22%3A%22D9ICRz3WP5l-vIkz1ZGh%22%7D)
-- **Escenarios de Casos de Uso** [Click aquí](https://app.diagrams.net/#G181E8Hk80m1fV4EV06OI70s6A-FcqKTfC#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
+- [**Diagrama de Clases Final**](https://app.diagrams.net/#G1Me7EgkrtNxqshidehcPkAX667zXjk1I4#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
+- [**Relaciones Explicadas Diagrama de Clases**](https://app.diagrams.net/#G16kTSu5ZgMrcEHDCKHsNF8LvQhM5Ebgxe#%7B%22pageId%22%3A%22RwyT7TJzFCJ9vY969kON%22%7D)
+- [**Matriz Clae**](https://app.diagrams.net/#G1V7U3YJ1MEWo_oPMQSD1PFNpN1j9CGHnX#%7B%22pageId%22%3A%228oMtTYmls0T_nRcbKcRk%22%7D)
+- [**Diagrama de Actividades**](https://app.diagrams.net/#G1WtqVtx-YuIkxxZnpmtoSAPMeekhP8w-f#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
+- [**Diagramas de Secuencias**](https://app.diagrams.net/#G1djHzKWcQ62t-7RbRwPLFGZc6GOBdfV06#%7B%22pageId%22%3A%2213e1069c-82ec-6db2-03f1-153e76fe0fe0%22%7D)
+- [**Primer Diagrama de Clases**](https://app.diagrams.net/#G1HkZ4c_5bhf77xI24p6RyxBg-umr6u_zK#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
+- [**Diagrama de Casos de Uso**](https://app.diagrams.net/#G1hixfnaBh50Hy6YdU8RWaMrfwkmgyB2ZT#%7B%22pageId%22%3A%22J1bnYpoX9HUr1594M34Z%22%7D)
+- [**Tarjetas CRC**](https://app.diagrams.net/#G1jDa13XQnvticrkN2S6NdMJ-tMNPNGtGI#%7B%22pageId%22%3A%22D9ICRz3WP5l-vIkz1ZGh%22%7D)
+- [**Escenarios de Casos de Uso**](https://app.diagrams.net/#G181E8Hk80m1fV4EV06OI70s6A-FcqKTfC#%7B%22pageId%22%3A%22e7e014a7-5840-1c2e-5031-d8a46d1fe8dd%22%7D)
